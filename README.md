@@ -6,9 +6,9 @@ my mistakes, that would help me improve this.
 
 Python3 packages required to run this script -->
 
-tkinter
-urllib.request
-ast
+- tkinter
+- urllib.request
+- ast
 
 
 I'm pretty sure the last 2 come pre-installed with Python but you may need to install tkinter. 
