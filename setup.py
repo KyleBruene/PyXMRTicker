@@ -20,8 +20,11 @@ def clickDonate():
 
 def updateText():
     prices = apiUpdate()
-    labelUsd['text'] = "USD/XMR: %.7s" % prices[0]+"\n\nBTC/XMR: "+prices[1]
+    labelUsd['text'] = "USD/XMR: $%.7s" % prices[0]+"\n\nBTC/XMR: ฿"+prices[1]
+    root.title("PyXMR Ticker  "+"$%.5s" % prices[0]+"  ฿%.8s" % prices[1])
     root.after(10000, updateText)
+
+
 
 
 def creatorInfo():
