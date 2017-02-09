@@ -1,7 +1,7 @@
 # PyXMRTicker
 A desktop XMR Price ticker made with python3
 
-Warning! I'm in the middle of learning process and made this thing while I was bored. If you are an experienced python programmer please do point out
+Warning! I'm in the middle of learning Python and made this thing while I was bored. If you are an experienced python programmer please do point out
 my mistakes, that would help me improve this. 
 
 Python3 packages required to run this script -->
