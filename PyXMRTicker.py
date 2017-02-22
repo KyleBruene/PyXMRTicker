@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from tkinter import *
 from urllib.request import *
 import ast
